@@ -7,7 +7,7 @@ const productos = [
   { id: 2, nombre: 'CURAT 1/8', precio: 8.00, color: 'bg-amber-500' },
   { id: 3, nombre: 'AÑEJO 1/8', precio: 9.00, color: 'bg-orange-500' },
   { id: 4, nombre: 'ES MOLL', precio: 16.00, color: 'bg-rose-500' },
-  { id: 5, nombre: 'SOMNI', precio: 19.00, color: 'bg-red-400' }},
+  { id: 5, nombre: 'SOMNI', precio: 19.00, color: 'bg-red-400' },
   { id: 6, nombre: 'ES MOLL + AÑEJO', precio: 19.00, color: 'bg-blue-400' },
   { id: 7, nombre: 'SOMNI + AÑEJO', precio: 22.00, color: 'bg-blue-600' },
   { id: 8, nombre: 'PACK 3 D.O.P.', precio: 20.00, color: 'bg-blue-800' },
